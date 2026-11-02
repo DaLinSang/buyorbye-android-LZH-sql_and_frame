@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">buy or bye</string>
+    <string name="tab_home">Home</string>
+    <string name="tab_plaza">Plaza</string>
+    <string name="tab_groups">Groups</string>
+    <string name="tab_profile">Profile</string>
+</resources>
